@@ -32,12 +32,3 @@
 	var_dump($xml);*/
 
 
-/*
-	TODO: создать ProductController и два метода showAction    - выводит все товары или по указанной категории,
-	                                             productAction - выводит один товар по переданному id
-	      http://myshop.local/product/show - показать все товары в магазине
-	      http://myshop.local/product/show?category=2 - показать все товары из категории 2
-	      
-	      http://myshop.local/product/product?id=45643 - вывести всю инфу о товаре по id
-
-*/
