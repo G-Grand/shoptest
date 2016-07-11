@@ -25,9 +25,6 @@
 	/*$ini = parse_ini_file("config/dbconf.ini");
 	var_dump($ini);
 
-	$dbcfg = require "config/dbconf.php";
-	var_dump($dbcfg);
-
 	$xml = simplexml_load_file('config/dbconf.xml');
 	var_dump($xml);*/
 
